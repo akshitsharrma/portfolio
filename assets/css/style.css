@@ -1,10 +1,4 @@
-/**
-* Template Name: Laura - v2.0.0
-* Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
+n  
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1142,6 +1136,7 @@ section {
 #footer {
   background: url("../img/footer-bg12.jpg") top center no-repeat;
   background-size: cover;
+  width:100vh
   color: #fff;
   font-size: 14px;
   text-align: center;
